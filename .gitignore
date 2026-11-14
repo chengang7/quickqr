@@ -1,0 +1,11 @@
+build/
+/build-*/
+*.user
+*.suo
+.vs/
+third_party/*.zip
+tests/fixtures/
+tests/ui-*.png
+tests/ui-report.txt
+*.log
+dist/
